@@ -12,7 +12,7 @@ develop or maintain these SDKs.
 The Foundation does not assume any responsibility, liability, endorsement, or
 support for the SDKs provided and maintained by the community.
 
-See the announcement of the [Godot Engine Community SDK Integrations](https://godotengine.org/article/godot-engine-community-sdk-integrations)
+See the announcement of the [Godot Engine Community SDK Integrations](https://godotengine.org/article/godot-sdk-integrations/)
 project for details on the purpose and scope of this project.
 
 ## Maintenance
@@ -83,6 +83,10 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 
 - [Azure PlayFab](https://github.com/Structed/godot-playfab) (external)
 - [Google Firebase](https://github.com/GodotNuts/GodotFirebase) (external)
+
+### Monetization
+
+- [Google AdMob](https://github.com/poingstudios/godot-admob-plugin) (external)
 
 ### Stores
 
