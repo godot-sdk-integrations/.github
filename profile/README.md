@@ -62,7 +62,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 #### Android
 
 - [Google Play Billing](https://github.com/godot-sdk-integrations/godot-google-play-billing)
-- [Google Play Game Services](https://github.com/Iakobs/godot-play-game-services) (external)
+- [Google Play Game Services](https://github.com/godot-sdk-integrations/godot-play-game-services)
 
 #### iOS
 
