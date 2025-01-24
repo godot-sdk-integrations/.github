@@ -76,7 +76,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 
 #### iOS using Godot signals
 - [GameCenter](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
-- [iCLoud](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
+- [iCloud](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
 - [InAppStore](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
 
 ### Audio
