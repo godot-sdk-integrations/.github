@@ -86,6 +86,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 
 ### Monetization
 
+- [Google AdMob](https://github.com/godot-sdk-integrations/godot-admob-plugin)
 - [Google AdMob](https://github.com/poingstudios/godot-admob-plugin) (external)
 
 ### Stores
