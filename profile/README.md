@@ -74,6 +74,11 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 - [InAppStore](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/inappstore)
 - [PhotoPicker](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/photo_picker)
 
+#### iOS using Godot signals
+- [GameCenter](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
+- [iCloud](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
+- [InAppStore](https://github.com/zt-pawer/SwiftGodotIosPlugins) (external)
+
 ### Audio
 
 - [FMOD](https://github.com/utopia-rise/fmod-gdextension) (external)
