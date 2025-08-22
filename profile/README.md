@@ -74,6 +74,13 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 - [InAppStore](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/inappstore)
 - [PhotoPicker](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/photo_picker)
 
+#### Android & iOS (unified GDScript interface)
+
+- [Deeplink Plugin](https://github.com/godot-sdk-integrations/godot-deeplink)
+- [In-app Review Plugin](https://github.com/godot-sdk-integrations/godot-inapp-review)
+- [Notification Scheduler Plugin](https://github.com/godot-sdk-integrations/godot-notification-scheduler)
+- [Share Plugin](https://github.com/godot-sdk-integrations/godot-share)
+
 ### Audio
 
 - [FMOD](https://github.com/utopia-rise/fmod-gdextension) (external)
@@ -86,7 +93,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 
 ### Monetization
 
-- [Google AdMob](https://github.com/godot-sdk-integrations/godot-admob-plugin)
+- [Google AdMob](https://github.com/godot-sdk-integrations/godot-admob)
 - [Google AdMob](https://github.com/poingstudios/godot-admob-plugin) (external)
 
 ### Stores
