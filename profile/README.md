@@ -81,6 +81,10 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 - [Notification Scheduler Plugin](https://github.com/godot-sdk-integrations/godot-notification-scheduler)
 - [Share Plugin](https://github.com/godot-sdk-integrations/godot-share)
 
+#### Meta HorizonOS
+
+- [Meta Toolkit](https://github.com/godot-sdk-integrations/godot-meta-toolkit)
+
 ### Audio
 
 - [FMOD](https://github.com/utopia-rise/fmod-gdextension) (external)
