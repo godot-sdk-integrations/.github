@@ -66,6 +66,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 
 #### iOS
 
+- [Apple StoreKit 2](https://github.com/godot-sdk-integrations/godot-storekit2)
 - [Apple Push Notifications (APN)](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/apn)
 - [ARKit](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/arkit)
 - [Camera](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/camera)
