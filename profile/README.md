@@ -57,50 +57,53 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 > This list is a work-in-progress, as the SDK integrations project was just
 > started and will need time to welcome new projects.
 
-### Platforms
+### Monetisation & Ads
 
-#### Android
+| Plugin | Supported Platform |
+| --- | --- |
+| [Google Play Billing](https://github.com/godot-sdk-integrations/godot-google-play-billing) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) |
+| [Apple StoreKit 2](https://github.com/godot-sdk-integrations/godot-storekit2) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [InAppStore](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/inappstore) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Google AdMob](https://github.com/godot-sdk-integrations/godot-admob) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Google AdMob](https://github.com/poingstudios/godot-admob-plugin) (external) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [AppLovin MAX (external)](https://github.com/AppLovin/AppLovin-MAX-Godot) (external) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
 
-- [Google Play Billing](https://github.com/godot-sdk-integrations/godot-google-play-billing)
-- [Google Play Game Services](https://github.com/godot-sdk-integrations/godot-play-game-services)
+### Store Integration
 
-#### iOS
+| Plugin | Supported Platform |
+| --- | --- |
+| [Google Play Game Services](https://github.com/godot-sdk-integrations/godot-play-game-services) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) |
+| [GameCenter](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/gamecenter) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Meta Toolkit](https://github.com/godot-sdk-integrations/godot-meta-toolkit) | ![Meta](https://img.shields.io/badge/Meta-%231c2a33?style=flat-square&logo=meta&logoColor=white) |
+| [Steam (GodotSteam)](https://github.com/GodotSteam/GodotSteam) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) |
 
-- [Apple StoreKit 2](https://github.com/godot-sdk-integrations/godot-storekit2)
-- [Apple Push Notifications (APN)](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/apn)
-- [ARKit](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/arkit)
-- [Camera](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/camera)
-- [GameCenter](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/gamecenter)
-- [iCloud](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/icloud)
-- [InAppStore](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/inappstore)
-- [PhotoPicker](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/photo_picker)
+### Backend and Analytics
 
-#### Android & iOS (unified GDScript interface)
-
-- [Deeplink Plugin](https://github.com/godot-sdk-integrations/godot-deeplink)
-- [In-app Review Plugin](https://github.com/godot-sdk-integrations/godot-inapp-review)
-- [Notification Scheduler Plugin](https://github.com/godot-sdk-integrations/godot-notification-scheduler)
-- [Share Plugin](https://github.com/godot-sdk-integrations/godot-share)
-
-#### Meta HorizonOS
-
-- [Meta Toolkit](https://github.com/godot-sdk-integrations/godot-meta-toolkit)
+| Plugin | Supported Platform |
+| --- | --- |
+| [Azure PlayFab](https://github.com/Structed/godot-playfab) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) |
+| [Google Firebase](https://github.com/GodotNuts/GodotFirebase) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/Web-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) |
+| [iCloud](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/icloud) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white)|
+| [Tenjin](https://github.com/tenjin/tenjin-godot-sdk) (external) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Sentry](https://github.com/getsentry/sentry-godot) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/Web-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) |
 
 ### Audio
 
-- [FMOD](https://github.com/utopia-rise/fmod-gdextension) (external)
-- [Wwise](https://github.com/alessandrofama/wwise-godot-integration) (external)
+| Plugin | Supported Platform |
+| --- | --- |
+| [FMOD](https://github.com/utopia-rise/fmod-gdextension) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/Web-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) |
+| [Wwise](https://github.com/alessandrofama/wwise-godot-integration) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) ![Web](https://img.shields.io/badge/Web-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) |
 
-### Backend
+### Utilities
 
-- [Azure PlayFab](https://github.com/Structed/godot-playfab) (external)
-- [Google Firebase](https://github.com/GodotNuts/GodotFirebase) (external)
+| Plugin | Supported Platform |
+| --- | --- |
+| [Deeplink Plugin](https://github.com/godot-sdk-integrations/godot-deeplink) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [In-app Review Plugin](https://github.com/godot-sdk-integrations/godot-inapp-review) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Share Plugin](https://github.com/godot-sdk-integrations/godot-share) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Notification Scheduler Plugin](https://github.com/godot-sdk-integrations/godot-notification-scheduler) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Apple Push Notifications (APN)](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/apn) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [PhotoPicker](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/photo_picker) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [Camera](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/camera) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white)|
+| [ARKit](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/arkit) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
 
-### Monetization
-
-- [Google AdMob](https://github.com/godot-sdk-integrations/godot-admob)
-- [Google AdMob](https://github.com/poingstudios/godot-admob-plugin) (external)
-
-### Stores
-
-- [Steam (GodotSteam)](https://github.com/GodotSteam/GodotSteam) (external)
