@@ -66,7 +66,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 | [InAppStore](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/inappstore) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
 | [Google AdMob](https://github.com/godot-sdk-integrations/godot-admob) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
 | [Google AdMob](https://github.com/poingstudios/godot-admob-plugin) (external) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
-| [AppLovin MAX (external)](https://github.com/AppLovin/AppLovin-MAX-Godot) (external) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
+| [AppLovin MAX](https://github.com/AppLovin/AppLovin-MAX-Godot) (external) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
 
 ### Store Integration
 
@@ -75,7 +75,7 @@ channel on the [Godot Contributors Chat](https://chat.godotengine.org/)!
 | [Google Play Game Services](https://github.com/godot-sdk-integrations/godot-play-game-services) | ![Android](https://img.shields.io/badge/Android-%233ddc84?style=flat-square&logo=android&logoColor=white) |
 | [GameCenter](https://github.com/godot-sdk-integrations/godot-ios-plugins/tree/master/plugins/gamecenter) | ![iOS](https://img.shields.io/badge/iOS-%231D1D1F?style=flat-square&logo=apple&logoColor=white) |
 | [Meta Toolkit](https://github.com/godot-sdk-integrations/godot-meta-toolkit) | ![Meta](https://img.shields.io/badge/Meta-%231c2a33?style=flat-square&logo=meta&logoColor=white) |
-| [Steam (GodotSteam)](https://github.com/GodotSteam/GodotSteam) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) |
+| [Steam (GodotSteam)](https://codeberg.org/godotsteam/godotsteam) (external) | ![Windows](https://img.shields.io/badge/Windows-%230078D4?style=flat-square) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Mac](https://img.shields.io/badge/MacOS-%23000000?style=flat-square&logo=apple&logoColor=white) |
 
 ### Backend and Analytics
 
